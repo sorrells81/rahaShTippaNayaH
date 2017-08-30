@@ -1,0 +1,84 @@
+----------------------------------------------------------------------
+conversion to GPA:
+if the maximum score is 100 points per course and you have 6 courses per semester, your unconverted scale value would be 4800( 8x6x100)for the eight quarters of undergraduate program. If you need to calculate the GPA yourself, please follow the general criteria outlined at the following link: http://www.stanford.edu/dept/registrar/academic/grades.html
+My total potential score: 
+--------
+my $totalPotential = 875 + 1000 + 1000 + 1000 + 1000 + 1000 + 1000 + 375;
+my $totalActual = 660 + 639 + 641 + 758 + 762 + 809 + 722 + 307;
+print "\nthe score is: ". $totalActual/$totalPotential;
+.7307
+
+Last two years:
+my $totalPotential = 1000 + 1000 + 1000 + 375;
+my $totalActual = 762 + 809 + 722 + 307;
+print "\nthe score is: ". $totalActual/$totalPotential;
+.7703
+
+percentages: 75.4 63.9 64.4 75.8 76.2 80.9 72.2 81.9 a
+aggregate: 73.8
+last two years: 77.8
+topper: 91%
+four year gpa: 3.25
+last two years: 3.43
+--------
+Calculated gpa: 
+assuming that the topper has scored 90%, my GPA is (73/90)*4 = 3.24
+assuming that the topper has scored 100%, my GPA is (73/100)*4 = 2.92
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+finAncinG GrAduATE STudy
+-------------------------------
+-------------------------------
+Go here!
+http://www.finaid.com/
+-------------------------------
+Financing graduate study through concurrent employment is extremely difficult.
+Teaching and research assistantship typically require 20 hours of work per week. That is around 4 to 6 hours of work per week-day! They cover reduced fee, and pay a salary. 
+-------------------------------
+Fellowship stipends and assistantship salaries will be taxed. This means that one must be ready to pay an extra 14%.
+2005-06 living costs (calculated for 12 months):
+Books/ Supplies: 2060
+Rent, food and personal: 19956
+Local transportation: 1000
+Medical Insurance: 2388
+Subtotal: 25404 (This is around Rs1220000!! 12.2 Lakhs!)
+Stanford tuition: 31200 (This is around Rs1600000!! 16 Lakhs!)
+Plus, relocation costs are $500 (That is Rs25000). That does not include the flight charges.
+Target salary after tax then is $56600 per year. 
+Target salary before tax then is $65600 per year. 
+That is $5500 per month.
+If you get an offer by April 15, and if another offer is accepted after April 15th, then a written realease is to be obtained.
+-------------------------------
+----------------------------------------------------------------------
+appad icie 60000, (not confirmed)
+ammad icie 72000, --> entirety
+ammad sbi 42000,
+ammad hsbsee 50000, 
+vidya man 91000, --> entirety
+vidya hdfsee (master) 40000,
+end stdchr, 43000
+----------------------------------------------------------------------
+calc:
+-2329 -50$ (ASU app)
++24000
+- 3,151.34 -68$ (TOEFL: unc, uiuc, umass, asu)
+-60$ (GRE: unc, uiuc, umass, asu)
+-3016.29 -65$ (UMASS)
+-2318.87 -50$ (GATECH)
+-2784.26 -60$ (uiuc)
+-- checque dropped
+-3246.41 -70$ (IASTATE)
+-2782.63 -60$ (UIC)
+-2320.22 -50$ (RUTGERS)
+-2318.87 -50$ (MSU)
+-60$ (GRE: cmu, wisc, utexas, gatech)
+-60$ (GRE: jhu, rutgers, msu, iastate)
+-136$ (TOEFL: cmu, wisc, utexas, gatech, jhu, rutgers, msu, iastate)
+-3,479.15 -75$ (utexas)
+-2,088.69 -45$ (wisc)
+-3,479.15 -75$ (umn)
+-2,364.77 -51$ (TOEFL: purdue, umn, uic)
+-45$ (GRE: purdue, umn, uic)
+- 3,467.29 (cmu)
+-3,240.42 (unc)
+-2,542.68 (purdue)

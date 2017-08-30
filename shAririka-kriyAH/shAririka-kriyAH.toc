@@ -1,0 +1,49 @@
+\contentsline {chapter}{Contents}{1}{section*.1}
+\contentsline {part}{\partnumberline {I}स्वास्थ्य-रक्षणं॥}{2}{part.1}
+\contentsline {chapter}{\chapternumberline {1}योगासनानि॥}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}परिचयं॥}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Current contortion goals}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}आयोगाभ्यासं॥}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}क्रिया-श्रेणिः॥}{3}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Clear the nose}{3}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Loosen the backbone and the muscles attached to it}{3}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Loosen the feet and the arm muscles}{4}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}Loosen the hamstring muscles and the lower back}{4}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}Work on the hamstring muscles}{4}{subsection.1.4.5}
+\contentsline {subsection}{\numberline {1.4.6}Clear the respiratory tract}{4}{subsection.1.4.6}
+\contentsline {subsection}{\numberline {1.4.7}Work on the eyes}{4}{subsection.1.4.7}
+\contentsline {subsection}{\numberline {1.4.8}Work on balance, backbone and the arms}{4}{subsection.1.4.8}
+\contentsline {subsection}{\numberline {1.4.9}Work on the backbone and the muscles attached to it}{4}{subsection.1.4.9}
+\contentsline {subsection}{\numberline {1.4.10}Strengthen the arms, work on balance}{4}{subsection.1.4.10}
+\contentsline {subsection}{\numberline {1.4.11}recover from physical strain of the Asanas}{4}{subsection.1.4.11}
+\contentsline {part}{\partnumberline {II}क्रिया-विशेषाः॥}{4}{part.2}
+\contentsline {chapter}{\chapternumberline {2}मल-विसर्जनं॥}{5}{chapter.2}
+\contentsline {chapter}{\chapternumberline {3}मूत्र-विसर्जनं॥}{5}{chapter.3}
+\contentsline {chapter}{\chapternumberline {4}स्त्री-रतिः॥}{5}{chapter.4}
+\contentsline {section}{\numberline {4.1}अभिनयः॥}{5}{section.4.1}
+\contentsline {section}{\numberline {4.2}पूर्व-क्रिया॥}{5}{section.4.2}
+\contentsline {section}{\numberline {4.3}प्रवेशः॥}{5}{section.4.3}
+\contentsline {section}{\numberline {4.4}लिङ्ग-रतिः॥}{6}{section.4.4}
+\contentsline {section}{\numberline {4.5}निर्गमनं॥}{6}{section.4.5}
+\contentsline {chapter}{\chapternumberline {5}शरीरस्य विश्रान्तिः॥}{6}{chapter.5}
+\contentsline {chapter}{\chapternumberline {6}उपवेशनं॥}{6}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}शिर-केशः॥}{6}{chapter.7}
+\contentsline {section}{\numberline {7.1}लाम्ब्यं॥}{6}{section.7.1}
+\contentsline {section}{\numberline {7.2}शिराग्र-मुण्डनं॥}{6}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}धेयानि॥}{7}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}विधिः॥}{7}{subsection.7.2.2}
+\contentsline {section}{\numberline {7.3}शिखाधरणं।}{7}{section.7.3}
+\contentsline {chapter}{\chapternumberline {8}Ergonomics while using the computer}{7}{chapter.8}
+\contentsline {section}{\numberline {8.1}Sitting vs standing}{7}{section.8.1}
+\contentsline {section}{\numberline {8.2}Posture}{7}{section.8.2}
+\contentsline {section}{\numberline {8.3}Shoulder comfort}{7}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Chair/ desk height}{8}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Mouse position and use}{8}{subsection.8.3.2}
+\contentsline {section}{\numberline {8.4}Neck comfort}{8}{section.8.4}
+\contentsline {section}{\numberline {8.5}Eye comfort}{8}{section.8.5}
+\contentsline {section}{\numberline {8.6}Wrist comfort}{8}{section.8.6}
+\contentsline {section}{\numberline {8.7}Breaks}{9}{section.8.7}
+\contentsline {chapter}{\chapternumberline {9}चलनं॥}{9}{chapter.9}
+\contentsline {chapter}{\chapternumberline {10}धावनं॥}{9}{chapter.10}
+\contentsline {section}{\numberline {10.1}पर्वत-अवरोहणं॥}{9}{section.10.1}
+\contentsline {chapter}{\chapternumberline {11}वृक्ष-पर्वतयोः आरोहणं, नदि तरणं॥}{9}{chapter.11}
