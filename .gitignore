@@ -1,0 +1,21 @@
+# Jekyll stuff
+_site
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
+
+# Intellij files.
+*.iml
+
+# Latex stuff.
+*.aux
+*.bbl
+*.bst
+*.blg
+*.dvi
+*.idv
+*.lg
+*.log
+*.out
+*.png
+*.sty
