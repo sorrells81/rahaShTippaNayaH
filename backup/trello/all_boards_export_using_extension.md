@@ -1142,7 +1142,8 @@ https://www.dmv.ca.gov/portal/wcm/connect/5a40cbcc-a9a9-4a42-ac43-a8564fa552c0/r
 **3/2/2018 1:18:06 PM Vishvas V विश्वासो वासुकिजः**
 
 ​
-https://www.dmv.ca.gov/portal/wcm/connect/7885d40d-4d2e-4fc0-b100-3ef8fe562bd7/reg227.pdf?MOD=AJPERES​
+https://www.dmv.ca.gov/portal/wcm/connect/7885d40d-4d2e-4fc0-b100-3ef8fe562bd7/reg227.pdf?MOD=AJPERES
+​
 
 -- 
 --
@@ -5008,7 +5009,7 @@ vishvas??
 
 **2/7/2018 10:26:49 AM Vishvas V विश्वासो वासुकिजः**
 
-सम्प्रति चान्द्रनक्षत्रम् एव स्वीक्रियत इति श्रीरमणः - https://twitter.com/kashcit/status/961087719483981824 । 
+सम्प्रति चान्द्रनक्षत्रम् एव स्वीक्रियत इति श्रीरमणः - https://twitter.com/agnimaan/status/961087719483981824 । 
 मत्तूरुरामनारायणः पृष्टः। 
 
 ### [186] [archived] मातुश् चीटिकाया निरसनम्
@@ -9050,7 +9051,7 @@ nagu69@sbi setup with 9845816781. kintu - UPI pin setup pending - "enter valid d
 
 SBI Bhim app: Transaction not permitted to the account.
 onlinesbi Profile still shows old phone number.
-Online phone number change failed with https://twitter.com/kashcit/status/1017683187500240896
+Online phone number change failed with https://twitter.com/agnimaan/status/1017683187500240896
 
 **7/12/2018 10:27:45 AM Vishvas V विश्वासो वासुकिजः**
 
@@ -17624,7 +17625,7 @@ Kronymous + SwitchyOmega extensions.
 
 IP address logging being ubiquitous, this seems unavoidable.
 
-From [this thread](https://twitter.com/kashcit/status/979057357002027009)
+From [this thread](https://twitter.com/agnimaan/status/979057357002027009)
 
 **3/28/2018 10:50:10 AM Vishvas V विश्वासो वासुकिजः**
 
@@ -17724,7 +17725,7 @@ https://www.australiancouncilofhinduclergy.com/current-affairs.html
 #### Comments
 **8/3/2017 11:27:27 AM Vishvas V विश्वासो वासुकिजः**
 
-https://twitter.com/kashcit/status/893175296706228224
+https://twitter.com/agnimaan/status/893175296706228224
 
 ## टिप्पणयः
 
@@ -18175,7 +18176,7 @@ Good export, but poor import options.
 **3/12/2018 11:40:31 PM Vishvas V विश्वासो वासुकिजः**
 
 
-When I try to import https://github.com/vvasuki/movie_db_py/blob/master/data/movie_data_rinema.csv at https://www.rinema.com/kashcit/uploads , I get: ​https://i.imgur.com/jm1mqG0.png . Reported to rinema.
+When I try to import https://github.com/vvasuki/movie_db_py/blob/master/data/movie_data_rinema.csv at https://www.rinema.com/agnimaan/uploads , I get: ​https://i.imgur.com/jm1mqG0.png . Reported to rinema.
 
 
 **3/12/2018 6:40:57 PM Vishvas V विश्वासो वासुकिजः**
@@ -18556,11 +18557,11 @@ Asked jekyll question at https://talk.jekyllrb.com/t/migrating-from-google-sites
 
 **5/18/2018 3:50:36 PM Vishvas V विश्वासो वासुकिजः**
 
-पुनर् अपकर्षितम्। चर्चा - https://twitter.com/kashcit/status/997600141107388416 
+पुनर् अपकर्षितम्। चर्चा - https://twitter.com/agnimaan/status/997600141107388416 
 
 **5/13/2018 8:38:50 PM Vishvas V विश्वासो वासुकिजः**
 
-सम्भाषणम् - https://twitter.com/kashcit/status/995657684517994496 । 
+सम्भाषणम् - https://twitter.com/agnimaan/status/995657684517994496 । 
 
 Seems that one can trigger backups using http://archive.org  - 
 https://web.archive.org/web/20180514032426/https://sites.google.com/site/hinduvichaarah/0-05-benefits-prayojanam … . Seems that this has to be done for each page separately.
@@ -19654,7 +19655,7 @@ Bug reported, older version installed
 
 **Description:**
 
-https://twitter.com/kashcit/status/891763024029143040 इति सूत्रम्
+https://twitter.com/agnimaan/status/891763024029143040 इति सूत्रम्
 
 ### [12] वायु-शलाक-वाद्य-विचारः
 
