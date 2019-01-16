@@ -16051,7 +16051,7 @@ scala service was down. Restarted. Can now reach https://api.vedavaapi.org/scala
 
 
 अवर्तमानद्राविडकोशो निष्कासितः।
-https://github.com/sanskrit-coders/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/declension-inria__2017-06-06_13-58-43__44MB.tar.gz इति तु वर्तते। तत्र पुनः प्रयत्तव्यम्।
+https://github.com/indic-dict/stardict-sanskrit/raw/master/sa-vyAkaraNa/tars/declension-inria__2017-06-06_13-58-43__44MB.tar.gz इति तु वर्तते। तत्र पुनः प्रयत्तव्यम्।
 
 ### [138] study + broadcast wikidata
 
@@ -16091,7 +16091,7 @@ https://www.wikidata.org/wiki/Q50300816 iti sRShTam.
 
 **12/10/2017 9:37:07 PM Vishvas V विश्वासो वासुकिजः**
 
-https://github.com/sanskrit-coders/stardict-sanskrit/issues/76 इति पुरा पृष्टस्योत्तरं न लब्धम्।
+https://github.com/indic-dict/stardict-sanskrit/issues/76 इति पुरा पृष्टस्योत्तरं न लब्धम्।
 
 तत्पूर्वं कृता यत्नाश्च विफलाः (किञ्च तेषाम् प्रमाणानि न लभ्यन्ते)।
 
