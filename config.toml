@@ -1,0 +1,11 @@
+baseURL = "https://vvasuki.github.io/rahaShTippaNayaH/"
+languageCode = "en-us"
+title = "Vishvas's private notes"
+theme = "sanskrit-documentation-theme-hugo"
+publishDir = "build_github"
+disablePathToLower = true
+[params]
+  githubEditMePathBase = "https://bitbucket.org/vvasuki/rahashtippanyah/edit/master/content/"
+  contactLink = "https://bitbucket.org/vvasuki/rahashtippanyah/issues/new"
+  env = "production"
+  disqusShortcode = "vvasuki-site"
