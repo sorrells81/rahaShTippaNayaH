@@ -1,6 +1,6 @@
 baseURL = "https://vvasuki.github.io/rahaShTippaNayaH/"
 languageCode = "en-us"
-title = "Vishvas's private notes"
+title = "रहष्टिप्पणयः"
 theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_github"
 disablePathToLower = true
