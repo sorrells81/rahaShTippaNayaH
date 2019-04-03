@@ -3,33 +3,48 @@
     {{partial "default-content" .}}
     {{ $home := .Site.Home }}
     <div class="css-treeview box">
-        <ul>
-            <li><input type="checkbox" id="section-tree-item-0" checked="checked" /><label for="section-tree-item-0">Home</label>
-                <ul>
-                    {{ template "section-tree-nav" $home }}
-                </ul>
-            </li>
-        </ul>
+        {{ template "section-tree-nav" .CurrentSection }}
     </div>
 </main>
 {{ end }}
 
 
 {{ define "section-tree-nav" }}
-{{ range .Sections.Reverse}}
-<li>
-<li><input type="checkbox" id="section-tree-item-{{.Title}}" checked="checked"/><label for="section-tree-item-{{.Title}}">{{ .Title }}</label>
-    <ul>
-        {{ range .Pages.ByDate.Reverse }}
-        <li>
-            <a href="{{.Permalink}}">{{ if not .Date.IsZero }}{{.Date.Format "2006-01-02"}} {{ end }} | {{.Title}} {{ if .Params.cast }}| {{.Params.cast}} {{ end }} | {{.Title}} {{ if .Params.topic }}| {{.Params.topic}} {{ end }}</a>
-        </li>
-        {{ end }}
+<ul>
+    <li><input type="checkbox" id="section-tree-folder-{{.Title}}" checked="checked" /><label for="section-tree-folder-{{.Title}}">{{.Title}}</label>
         <ul>
-            {{ template "section-tree-nav" . }}
+            {{ range .Pages.ByDate.Reverse }}
+            <li>
+                <aside class="card border " id="section-tree-item-{{.Title}}">
+                    <div id="section-tree-item-title-{{.Title}}" class="card-title bg-light-gray border d-flex justify-content-between">
+                        <a href="{{.Permalink}}">{{ if not .Date.IsZero }}{{.Date.Format "2006-01-02"}}  | {{ end }}{{.Title}} </a>
+                    </div>
+                    <nav class="card-body p-0">
+                        {{ if .Params.cast }}
+                        <li>पात्राणि - 
+                        {{ range .Params.cast }}
+                        <a href="{{relURL "cast/"}}{{.|urlize}}/">{{.}}</a>,
+                        {{ end }}
+                        </li>
+                        {{ end }}
+                        {{ if .Params.topics }}
+                        <li>विषयः -
+                            {{ range .Params.topics }}
+                            <a href="{{relURL "topics/"}}{{.|urlize}}/">{{.}}</a>,
+                            {{ end }}
+                        </li>
+                        {{ end }}
+                    </nav>
+                </aside>
+            </li>
+            {{ end }}
+            
+            {{ range .Sections.Reverse}}
+            <li>
+                {{ template "section-tree-nav" . }}
+            </li>
+            {{ end }}
         </ul>
-    </ul>
-</li>
-</li>
-{{ end }}
+    </li>
+</ul>
 {{ end }}
