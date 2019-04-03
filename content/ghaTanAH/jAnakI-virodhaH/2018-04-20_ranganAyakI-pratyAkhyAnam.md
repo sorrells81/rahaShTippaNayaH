@@ -8,7 +8,7 @@ cast:
 date: '2018-04-20'
 rasyataa: 5
 title: रङ्गनायकी-प्रत्याख्यानम्
-topic:
+topics:
 - सदाचारः
 
 ---

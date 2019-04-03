@@ -8,7 +8,7 @@ cast:
 date: '2018-09-04'
 rasyataa: 4
 title: श्रीरामस्य स्पशता साहाय्यञ्च
-topic:
+topics:
 - स्पशता
 
 ---

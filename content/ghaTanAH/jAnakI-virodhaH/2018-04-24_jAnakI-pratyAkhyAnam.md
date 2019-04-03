@@ -6,7 +6,7 @@ cast:
 date: '2018-04-24'
 rasyataa: 5
 title: जानकी-प्रत्याख्यानम्
-topic:
+topics:
 - सदाचारः
 
 ---

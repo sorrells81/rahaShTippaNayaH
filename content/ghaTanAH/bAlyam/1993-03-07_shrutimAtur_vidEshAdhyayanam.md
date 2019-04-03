@@ -7,7 +7,7 @@ cast:
 date: '1993-03-07'
 rasyataa: 3
 title: श्रुतिमातुर् विदेशाध्ययनम्
-topic:
+topics:
 - पति-सहकारः
 
 ---

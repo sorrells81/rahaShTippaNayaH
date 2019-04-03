@@ -4,7 +4,7 @@ cast:
 date: '2011-01-02'
 rasyataa: 4
 title: वर्षा-विवाह-विच्छेदः
-topic:
+topics:
 - विवाह-विच्छेदः
 
 ---

@@ -8,7 +8,7 @@ cast:
 date: '2018-02-18'
 rasyataa: 5
 title: जानक्या वासुकाव् आवेदनम्
-topic:
+topics:
 - असत्यम्
 
 ---

@@ -5,7 +5,7 @@ cast:
 date: '2008-05-20'
 rasyataa: 4
 title: कमलाध्ययनपरता
-topic:
+topics:
 - वृद्धाध्ययनम्
 
 ---

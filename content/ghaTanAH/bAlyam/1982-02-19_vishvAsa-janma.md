@@ -8,7 +8,7 @@ cast:
 date: '1982-02-19'
 rasyataa: 5
 title: विश्वास-जन्म
-topic:
+topics:
 - जननम्
 - अशौचम्
 

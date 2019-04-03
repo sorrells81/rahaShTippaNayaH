@@ -4,7 +4,7 @@ cast:
 date: '2001-03-07'
 rasyataa: 3
 title: चन्द्रस्यौषधि-स्वीकारः
-topic:
+topics:
 - मनोव्याधिः
 
 ---

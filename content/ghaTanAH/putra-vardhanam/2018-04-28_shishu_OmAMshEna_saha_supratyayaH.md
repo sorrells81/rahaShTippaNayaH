@@ -7,7 +7,7 @@ cast:
 date: '2018-04-28'
 rasyataa: 4
 title: शिशु+ओमांशेन सह सुप्रत्ययः
-topic:
+topics:
 - बाल-क्रीडा
 
 ---

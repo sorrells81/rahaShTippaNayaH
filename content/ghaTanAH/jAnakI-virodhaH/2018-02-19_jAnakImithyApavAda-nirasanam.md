@@ -7,7 +7,7 @@ cast:
 date: '2018-02-19'
 rasyataa: 5
 title: जानकीमिथ्यापवाद-निरसनम्
-topic:
+topics:
 - असत्यम्
 
 ---

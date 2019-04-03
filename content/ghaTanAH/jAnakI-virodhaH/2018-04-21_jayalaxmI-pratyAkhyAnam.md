@@ -8,7 +8,7 @@ cast:
 date: '2018-04-21'
 rasyataa: 5
 title: जयलक्ष्मी-प्रत्याख्यानम्
-topic:
+topics:
 - सदाचारः
 
 ---

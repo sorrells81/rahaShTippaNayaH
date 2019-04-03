@@ -8,7 +8,7 @@ date: '2018-01-31'
 - अपराधि-निग्रह-तृप्तिः
 rasyataa: 4
 title: सन्तोषभट्ट-RIPing
-topic:
+topics:
 - RIP-वचनम्
 - दुःसंस्कारः
 

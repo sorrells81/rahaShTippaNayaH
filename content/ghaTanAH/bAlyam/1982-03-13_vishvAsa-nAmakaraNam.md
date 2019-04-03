@@ -8,7 +8,7 @@ cast:
 date: '1982-03-13'
 rasyataa: 5
 title: विश्वास-नामकरणम्
-topic:
+topics:
 - कर्म
 
 ---

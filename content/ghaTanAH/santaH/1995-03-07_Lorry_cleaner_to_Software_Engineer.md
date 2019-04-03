@@ -4,7 +4,7 @@ cast:
 - कार्तिकः
 date: '1995-03-07'
 title: Lorry cleaner to Software Engineer
-topic:
+topics:
 - दक्षता
 - वृद्धिः
 

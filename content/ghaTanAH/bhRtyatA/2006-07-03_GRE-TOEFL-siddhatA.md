@@ -5,7 +5,7 @@ cast:
 date: '2006-07-03'
 rasyataa: 5
 title: GRE-TOEFL-सिद्धता
-topic:
+topics:
 - परीक्षा
 - परीक्षा-सिद्धता
 

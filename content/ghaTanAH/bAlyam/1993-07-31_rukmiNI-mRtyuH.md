@@ -9,7 +9,7 @@ cast:
 date: '1993-07-31'
 rasyataa: 5
 title: रुक्मिणी-मृत्युः
-topic:
+topics:
 - मृत्युः
 
 ---

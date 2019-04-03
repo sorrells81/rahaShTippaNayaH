@@ -8,7 +8,7 @@ cast:
 date: '2018-12-01'
 rasyataa: 4
 title: NCBS-आगमने जानकीनाटकम्
-topic:
+topics:
 - नटनम्
 - सीमा-स्पष्टीकरणम्
 

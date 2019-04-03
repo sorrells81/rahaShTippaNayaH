@@ -6,7 +6,7 @@ cast:
 date: '2017-04-19'
 rasyataa: 4
 title: रवि-वासुकि-कलहः
-topic:
+topics:
 - दुरहङ्कारः
 - अविनयः
 

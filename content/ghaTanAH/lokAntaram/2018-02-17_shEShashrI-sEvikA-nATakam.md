@@ -6,7 +6,7 @@ cast:
 date: '2018-02-17'
 rasyataa: 4
 title: शेषश्री-सेविका-नाटकम्
-topic:
+topics:
 - नाटकम्
 - वञ्चनम्
 

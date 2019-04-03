@@ -7,7 +7,7 @@ cast:
 date: '2014-12-24'
 rasyataa: 5
 title: नृसिंहार्य-मृत्युः
-topic:
+topics:
 - मृत्युः
 
 ---

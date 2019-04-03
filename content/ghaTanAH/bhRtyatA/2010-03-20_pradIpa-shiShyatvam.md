@@ -6,7 +6,7 @@ cast:
 date: '2010-03-20'
 rasyataa: 4
 title: प्रदीप-शिष्यत्वम्
-topic:
+topics:
 - संशोधनम्
 - भयम्
 - दोषारोपः

@@ -7,7 +7,7 @@ cast:
 date: '2017-02-17'
 rasyataa: 5
 title: तुलस्या स्वसृ-रक्षणम्
-topic:
+topics:
 - सुविवाह-कल्पनम्
 
 ---

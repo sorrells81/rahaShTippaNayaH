@@ -7,7 +7,7 @@ cast:
 date: '2010-05-20'
 rasyataa: 3
 title: विवाहात् पूर्वं परीक्षा
-topic:
+topics:
 - मानिता
 
 ---

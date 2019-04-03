@@ -6,7 +6,7 @@ cast:
 date: '2018-11-20'
 rasyataa: 3
 title: २०१८-११ श्रीवत्सेन वेङ्कटरमणत्राणम् copy
-topic:
+topics:
 - चञ्चूप्रवेशः
 
 ---

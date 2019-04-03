@@ -8,7 +8,7 @@ cast:
 date: '2018-02-16'
 rasyataa: 4
 title: MIT-भृत्यता-समाप्ति-सूचना
-topic:
+topics:
 - नयन्तृ-भृत्य-विवादः
 
 ---

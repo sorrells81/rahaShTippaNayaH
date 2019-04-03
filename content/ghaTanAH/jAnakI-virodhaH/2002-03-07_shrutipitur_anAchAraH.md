@@ -5,7 +5,7 @@ cast:
 date: '2002-03-07'
 rasyataa: 4
 title: श्रुतिपितुर् अनाचारः
-topic:
+topics:
 - सदाचारविरोधः
 
 ---

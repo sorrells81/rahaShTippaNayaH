@@ -5,7 +5,7 @@ cast:
 date: '2015-01-02'
 rasyataa: 5
 title: अरुण-विवाह-विच्छेदः
-topic:
+topics:
 - विवाह-विच्छेदः
 
 ---

@@ -6,7 +6,7 @@ cast:
 date: '2017-12-13'
 rasyataa: 5
 title: पूजोन्मादो ऽद्वैतसभायाम्
-topic:
+topics:
 - उन्मादः
 
 ---

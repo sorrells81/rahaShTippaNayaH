@@ -6,7 +6,7 @@ cast:
 date: '2018-01-18'
 rasyataa: 3
 title: जानकीविश्वासयोस् तत्त्वचर्चा
-topic:
+topics:
 - आचारः
 - धर्मः
 

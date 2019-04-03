@@ -7,7 +7,7 @@ date: '2018-01-31'
 - विस्मयः
 rasyataa: 5
 title: Blue moon, a total lunar eclipse and a supermoon
-topic:
+topics:
 - ऋतम्
 - ऋतानुभवः
 
