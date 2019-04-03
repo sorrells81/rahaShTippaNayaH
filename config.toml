@@ -5,7 +5,7 @@ theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_github"
 disablePathToLower = true
 [params]
-  githubEditMePathBase = "https://bitbucket.org/vvasuki/rahashtippanyah/edit/master/content/"
-  contactLink = "https://bitbucket.org/vvasuki/rahashtippanyah/issues/new"
+  githubEditMePathBase = "https://github.com/vvasuki/rahaShTippaNayaH/edit/master/content/"
+  contactLink = "https://github.com/vvasuki/rahaShTippaNayaH/issues/new"
   env = "production"
   disqusShortcode = "vvasuki-site"
