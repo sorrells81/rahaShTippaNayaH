@@ -6,3 +6,12 @@
     comments: true
     search: true
     sidebar: home_sidebar
+-
+  scope:
+    pathPrefix: "ghaTanAH"
+  values:
+    layout: "page"
+    comments: true
+    search: true
+    unicode_script: devanagari
+    sidebar: home_sidebar
