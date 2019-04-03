@@ -1,13 +1,35 @@
 {{ define "main" }}
 <main>
     {{partial "default-content" .}}
+    {{ $home := .Site.Home }}
+    <div class="css-treeview box">
+        <ul>
+            <li><input type="checkbox" id="section-tree-item-0" checked="checked" /><label for="section-tree-item-0">Home</label>
+                <ul>
+                    {{ template "section-tree-nav" $home }}
+                </ul>
+            </li>
+        </ul>
+    </div>
+</main>
+{{ end }}
+
+
+{{ define "section-tree-nav" }}
+{{ range .Sections.Reverse}}
+<li>
+<li><input type="checkbox" id="section-tree-item-{{.Title}}" checked="checked"/><label for="section-tree-item-{{.Title}}">{{ .Title }}</label>
     <ul>
-        <!-- Ranges through content/posts/*.md -->
-        {{ range .Pages.ByDate.Reverse}}
+        {{ range .Pages.ByDate.Reverse }}
         <li>
             <a href="{{.Permalink}}">{{ if not .Date.IsZero }}{{.Date.Format "2006-01-02"}} {{ end }} | {{.Title}} {{ if .Params.cast }}| {{.Params.cast}} {{ end }} | {{.Title}} {{ if .Params.topic }}| {{.Params.topic}} {{ end }}</a>
         </li>
         {{ end }}
+        <ul>
+            {{ template "section-tree-nav" . }}
+        </ul>
     </ul>
-</main>
+</li>
+</li>
+{{ end }}
 {{ end }}
