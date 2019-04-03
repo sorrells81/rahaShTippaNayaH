@@ -6,7 +6,7 @@
 रसः_भावः:
 - विस्मयः
 रस्यता: ५
-लिङ्गम्: Blue moon, a total lunar eclipse and a supermoon
+title: Blue moon, a total lunar eclipse and a supermoon
 विषयः:
 - ऋतम्
 - ऋतानुभवः
