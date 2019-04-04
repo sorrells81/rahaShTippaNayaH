@@ -22,11 +22,11 @@ build:
         version: "0.53"
         theme: "sanskrit-documentation-theme-hugo"
         flags: --buildDrafts=true
-    - arjen/hugo-build:
-        version: "0.53"
-        theme: "sanskrit-documentation-theme-hugo"
-        flags: --buildDrafts=true
-        config: config_offline_android.toml
+#    - arjen/hugo-build:
+#        version: "0.53"
+#        theme: "sanskrit-documentation-theme-hugo"
+#        flags: --buildDrafts=true
+#        config: config_offline_android.toml
 deploy:
   steps:
     - install-packages:
@@ -38,8 +38,9 @@ deploy:
         hostname: bitbucket.org
         fingerprint: 97:8c:1b:f2:6f:14:6b:5c:3b:ec:aa:46:46:74:7c:40
         type: rsa
-    - lordlothar99/git-push:
+    - gsserge/git-push:
         host: bitbucket.org
         repo: agnirahas/agnirahas.bitbucket.org
         branch: master
         basedir: build_bitbucket
+        discard_history: true
