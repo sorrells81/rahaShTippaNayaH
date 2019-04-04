@@ -44,3 +44,4 @@ deploy:
         branch: master
         basedir: build_bitbucket
         discard_history: true
+# The final step above is failing - https://github.com/lvivier/step-gh-pages/issues/15 . Yet to figure out why.
