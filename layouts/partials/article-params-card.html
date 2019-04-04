@@ -1,0 +1,29 @@
+{{ $cleaned_title := replace .File.LogicalName " " "_"}}
+{{ $cleaned_title := replace $cleaned_title "." "_"}}
+{{ $cleaned_title := replace $cleaned_title "/" "_"}}
+<aside class="card border" id="section-tree-item-{{$cleaned_title}}">
+    <div class="card-title bg-light-gray border d-flex justify-content-between">
+        <a href="{{.Permalink}}">{{ if not .Date.IsZero }}{{.Date.Format "2006-01-02"}}  | {{ end }}{{.Title}} </a>
+        <a data-toggle="collapse" href="#section-tree-item-body-{{$cleaned_title}}" role="button" aria-expanded="false" aria-controls="section-tree-item-body-{{$cleaned_title}}" >…<i class="fas fa-caret-down" class="collapsed"></i> </a>
+    </div>
+    <nav id="section-tree-item-body-{{$cleaned_title}}" class="card-body p-0 collapse">
+        {{ if .Params.cast }}
+        <li>पात्राणि -
+            {{ range .Params.cast }}
+            <a href="{{relURL "cast/"}}{{.|urlize}}/">{{.}}</a>,
+            {{ end }}
+        </li>
+        {{ end }}
+        {{ if .Params.topics }}
+        <li>विषयः -
+            {{ range .Params.topics }}
+            <a href="{{relURL "topics/"}}{{.|urlize}}/">{{.}}</a>,
+            {{ end }}
+        </li>
+        {{ end }}
+        <li>कालः - {{ .Date.Format "2006-01-02" }} - {{ .Params.date_end }}</li>
+        {{ if .Params.rasyataa }}
+        <li>रस्यता - {{ .Params.rasyataa }}</li>
+        {{ end }}
+    </nav>
+</aside>

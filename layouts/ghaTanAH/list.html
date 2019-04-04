@@ -15,27 +15,7 @@
         <ul>
             {{ range .Pages.ByDate.Reverse }}
             <li>
-                <aside class="card border " id="section-tree-item-{{.Title}}">
-                    <div id="section-tree-item-title-{{.Title}}" class="card-title bg-light-gray border d-flex justify-content-between">
-                        <a href="{{.Permalink}}">{{ if not .Date.IsZero }}{{.Date.Format "2006-01-02"}}  | {{ end }}{{.Title}} </a>
-                    </div>
-                    <nav class="card-body p-0">
-                        {{ if .Params.cast }}
-                        <li>पात्राणि - 
-                        {{ range .Params.cast }}
-                        <a href="{{relURL "cast/"}}{{.|urlize}}/">{{.}}</a>,
-                        {{ end }}
-                        </li>
-                        {{ end }}
-                        {{ if .Params.topics }}
-                        <li>विषयः -
-                            {{ range .Params.topics }}
-                            <a href="{{relURL "topics/"}}{{.|urlize}}/">{{.}}</a>,
-                            {{ end }}
-                        </li>
-                        {{ end }}
-                    </nav>
-                </aside>
+                {{partial "article-params-card" .}}
             </li>
             {{ end }}
             
