@@ -35,13 +35,14 @@ deploy:
     - install-packages:
         packages: git ssh-client
     - add-ssh-key:
-        keyname: github_key
-        host: github.com
-    - sf-zhou/gh-pages@0.2.6:
-        token: $GIT_TOKEN
-        basedir: build_github
-        branch: gh-pages
-    - sf-zhou/gh-pages@0.2.6:
-        token: $GIT_TOKEN
-        basedir: build_offline_android
-        branch: offline_android
+        keyname: bitbucket_key
+        host: bitbucket.org
+     - add-to-known_hosts:
+        hostname: bitbucket.org
+        fingerprint: 97:8c:1b:f2:6f:14:6b:5c:3b:ec:aa:46:46:74:7c:40
+        type: rsa
+    - lordlothar99/git-push:
+        host: bitbucket.org
+        repo: agnirahas/agnirahas.bitbucket.org
+        branch: master
+        basedir: build_bitbucket

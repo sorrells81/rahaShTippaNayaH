@@ -1,8 +1,8 @@
-baseURL = "https://vvasuki.github.io/rahaShTippaNayaH/"
+baseURL = "https://agnirahas.bitbucket.org/"
 languageCode = "en-us"
 title = "रहष्टिप्पणयः"
 theme = "sanskrit-documentation-theme-hugo"
-publishDir = "build_github"
+publishDir = "build_bitbucket"
 disablePathToLower = true
 [taxonomies]
   topics = "topics"
