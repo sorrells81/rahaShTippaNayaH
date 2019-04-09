@@ -31,12 +31,6 @@ From: विश्वासो वासुकिजः (Vishvas Vasuki) <vishva
 Date: 2018-01-17 20:33 GMT-08:00  
 To: Sai Susarla <sai.susarla@gmail.com>  
 
-```
-2018-01-17 20:00 GMT-08:00 Sai Susarla <sai.susarla@gmail.com>:  
-Etat siddham asti kim?   
-Kutra drashtum shakyate?   
-```
-
 ​  
 पुरा चर्चितम् स्मारयामि, यस्मिन् भवदभीप्सितं सिद्धं स्यात् -  
 
@@ -49,7 +43,8 @@ Kutra drashtum shakyate?
 …  
 विश्वासः: curl -X GET "https://api.vedavaapi.org/scala/grammar/v1/generators/alternateFormsWx/yAwi/karwari/lot/pra/1/parasmEpaxI" -H "accept: application/json" iti tu siddham - python wrapper rachanIyam.  
 …  
-विश्वासः: import requests  
+विश्वासः: 
+import requests  
 url = "https://api.vedavaapi.org/scala/grammar/v1/generators/alternateFormsWx/yAwi/karwari/lot/pra/1/parasmEpaxI"  
 response = requests.get(url)  
 response.json()  
@@ -58,10 +53,8 @@ response.json()
 asya phalam:  
 [u'yAwAw', u'yAwu']  
 
-
 itopi kimapi wrapping nAvashyakam iti manye.  
 ```
-
 
 ततः परम् दूरवाणी सम्भाषणेषु भवतेत्थं प्रार्थितम्  - "एकस्यैव धातोर् अनेकानि रूपाणी शीघ्रम् आवश्यकं स्यात् - पौनःपुन्येन REST API आह्वानम् अनुचितम्, अतः कस्मिंश्चिल् लकारे सर्वाणि रूपाणि युगपल् लब्धुं किमपि रचनीयम्"​। पश्चाच्च प्राक्तन-दूरवाणी-सम्भाषणात् परम् कदाचिद् एवं सम्भाषितम् -  
 
