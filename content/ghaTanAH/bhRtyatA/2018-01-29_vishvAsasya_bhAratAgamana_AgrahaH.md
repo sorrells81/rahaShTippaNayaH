@@ -21,7 +21,7 @@ topics:
 
 Forwarded conversation  
 Subject: Your relocation to India  
-------------------------  
+------------------------
 
 From: Sai Susarla <sai.susarla@gmail.com>  
 Date: Mon, Jan 29, 2018 at 1:29 AM  
@@ -48,7 +48,7 @@ Given these challenges, I feel continuing our long-distance engagement like this
 Thanks and regards,  
 - Sai.  
 
-----------  
+----------
 From: विश्वासो वासुकिजः (Vishvas Vasuki) <vishvas.vasuki@gmail.com>  
 Date: 2018-01-29 7:59 GMT-08:00  
 To: Sai Susarla <sai.susarla@gmail.com>  
@@ -69,7 +69,7 @@ To: Sai Susarla <sai.susarla@gmail.com>
 Vishvas /विश्वासः  
 
 
-----------  
+----------
 From: Sai Susarla <sai.susarla@gmail.com>  
 Date: 2018-01-29 9:24 GMT-08:00  
 To: "विश्वासो वासुकिजः (Vishvas Vasuki)" <vishvas.vasuki@gmail.com>  
@@ -88,7 +88,7 @@ bhavataH dvitiiyaH vikalpaH samyak iti bhaati | parantu August paryantam eva iti
 - Sai.  
 
 
-----------  
+----------
 From: विश्वासो वासुकिजः (Vishvas Vasuki) <vishvas.vasuki@gmail.com>  
 Date: 2018-01-29 11:43 GMT-08:00  
 To: Sai Susarla <sai.susarla@gmail.com>  

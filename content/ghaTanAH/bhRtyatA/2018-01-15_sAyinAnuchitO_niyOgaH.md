@@ -26,7 +26,7 @@ To: vishvAs vAsuki <vishvas.vasuki@gmail.com>
 Etat siddham asti kim?   
 Kutra drashtum shakyate?   
 
-----------  
+----------
 From: विश्वासो वासुकिजः (Vishvas Vasuki) <vishvas.vasuki@gmail.com>  
 Date: 2018-01-17 20:33 GMT-08:00  
 To: Sai Susarla <sai.susarla@gmail.com>  
@@ -70,7 +70,7 @@ itopi kimapi wrapping nAvashyakam iti manye.
 Vishvas /विश्वासः  
 
 
-----------  
+----------
 From: Sai Susarla <sai.susarla@gmail.com>  
 Date: 2018-01-17 20:42 GMT-08:00  
 To: vishvAs vAsuki <vishvas.vasuki@gmail.com>  
@@ -78,7 +78,7 @@ To: vishvAs vAsuki <vishvas.vasuki@gmail.com>
 
 I need a wrapper around it that lets me specify the parameters in json which it internally converts to whatever url.   
 
-----------  
+----------
 From: विश्वासो वासुकिजः (Vishvas Vasuki) <vishvas.vasuki@gmail.com>  
 Date: 2018-01-17 20:54 GMT-08:00  
 To: Sai Susarla <sai.susarla@gmail.com>  
@@ -89,7 +89,7 @@ https://api.vedavaapi.org/scala/grammar/v1/generators/alternateFormsWx/yAwi/karw
 
 Micro-delegation is not a wise use of either of our time. If you don't have the time to write such a function, it means that you should not be writing that code at all. Delegation should be at a higher level. Please consider using this test - If it takes as much time to accurately specify what you want (preferably in writing) as it does to just do the task yourself - you should do it yourself. पुनरत्र परस्परतृप्तीच्छाम् अन्तरा न कश्चन दर्पादिकं मयि ग्राह्यम् आर्येण   
 
-----------  
+----------
 From: Sai Susarla <sai.susarla@gmail.com>  
 Date: 2018-01-18 1:09 GMT-08:00  
 To: "विश्वासो वासुकिजः (Vishvas Vasuki)" <vishvas.vasuki@gmail.com>  
@@ -110,7 +110,7 @@ Please let me know if we need to discuss it further.
 
 
 
-----------  
+----------
 From: विश्वासो वासुकिजः (Vishvas Vasuki) <vishvas.vasuki@gmail.com>  
 Date: 2018-01-18 7:42 GMT-08:00  
 To: Sai Susarla <sai.susarla@gmail.com>  
@@ -131,7 +131,7 @@ To: Sai Susarla <sai.susarla@gmail.com>
 अत्र​ नास्ति मम ​काचिदहङ्कृतिः। ​ "सम्मानाद्ब्राह्मणो नित्यं उद्विजेत विषादिव । अमृतस्येव चाकाङ्क्षेदवमानस्य सर्वदा"​ इति मनुवचनमेव मम प्रेरणं सर्वदा। एवं हि मच्चिन्तनादेः प्रामाणिके परिष्कारे मा भूत् सङ्कोचः।  
 
 
-----------  
+----------
 From: विश्वासो वासुकिजः (Vishvas Vasuki) <vishvas.vasuki@gmail.com>  
 Date: 2018-01-19 7:18 GMT-08:00  
 To: Sai Susarla <sai.susarla@gmail.com>  
