@@ -44,7 +44,7 @@ topics:
 No fan, avoid head-bath. 
 
 #### anubhUtiH
-विश्वासेनैवम् पृष्टो वैद्यः -
+विश्वासेनैवम् पृष्टो वैद्यः सप्ताहद्वयस्यान्ते-
 
 - Also at night, while taking Agastya rasAyana + milk on mostly empty stomach, I sometimes get acidity type feeling (eg yesterday, when I also added some haridra), forcing me to eat something else. Should I just increase milk intake then to beyond 100ml?
 - Also, at around the 3rd/ 4th day of this treatment, I observed the following: The symptoms kept up without much improvement - sneezing right after waking up and blocked nose in the morning, receding by pUrvAhNa (11AM or noon). So I felt that an important trick is to change my inner-body-environment to be more pUrvAhNa/ afternoon like as soon as possible after waking up - perhaps by making my regular activity more vigorous (- with more physical exertion and mental aggressiveness). This has seemed to work quite well. And I began wondering if your stricture against sleeping in the noon was motivated by the danger of resetting the body to a morning-like state - am I right?
@@ -54,6 +54,8 @@ For the initial few days, my hand kept automatically and habitually pouring wate
 "We can discuss these during the follow up" इत्येवोत्तरं लब्धम्। (परिचित-मठाधिपति-चिकित्सायाम् अप्य् एवमेव +अस्नेहः।)
 
 Avoiding fan and closing window during sleep definitely helped.
+
+When applying nasya, spreading the oil to entire inner wall of nostril helped much more than dropping it straight in, which only seem to result in runny nose feeling. (Observation duration: 1 day)
 
 #### श्रुति-सहकारः
 उत्साहेनारम्भे श्रुतिश् चिकित्साक्रमम् गूगल-समयदर्शिन्याम् अस्थापयत्, शन्काश् च स्मृत्या न्यवारयत्। कदाचित् श्रुतिर् व्यजनचालनायाग्रहम् अकरोद् इति, कदाचित् तस्या पीनस-व्याधिरासीद् इति च विश्वासः पृथक् अशेत। सप्ताहद्वय्म् श्रुत्याक्षेपम् समस्यातीव्रतां च +आशन्क्य विश्वासो वातायनम् उद्घाटितम् एवात्यजन् निद्रावेलायाम् - यद्यपि तन्निवारणेन श्वाससुखं तु निश्चितप्रायम्। 
