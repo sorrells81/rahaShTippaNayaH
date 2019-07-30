@@ -57,6 +57,10 @@ Avoiding fan and closing window during sleep definitely helped.
 
 When applying nasya, spreading the oil to entire inner wall of nostril helped much more than dropping it straight in, which only seem to result in runny nose feeling. (Observation duration: 1 day)
 
+By Jul 28, even the the 4th bottle of Agastya rasAyana got over. I started instead to just drink milk + turmeric + pepper seed boiled. I could feel a positive effect - especially upon biting through a few of the softened pepper seeds. I wondered: perhaps I need to change my diet to something "hotter". In this connection, I recalled feeling that ingesting mango definitely helped ease my symptoms, while eating sibekAi (the pink flesh variety) worsened it. The vaidya was unavailable for follow-up consultation on that day.
+
+On 30th July, I laid down on top of a jamkhAna spread over a thin straw mat spread over the mosaic tiled floor. Still, I could feel the cold from the ground - and my lungs grew wheezy, I coughed quite a bit, nose was half blocked. I recalled a similar experience in my initial day at IISc hostel in 2006 September (before I was provided a cot). Resolved the problem by eating a mango.
+
 #### श्रुति-सहकारः
 उत्साहेनारम्भे श्रुतिश् चिकित्साक्रमम् गूगल-समयदर्शिन्याम् अस्थापयत्, शन्काश् च स्मृत्या न्यवारयत्। कदाचित् श्रुतिर् व्यजनचालनायाग्रहम् अकरोद् इति, कदाचित् तस्या पीनस-व्याधिरासीद् इति च विश्वासः पृथक् अशेत। सप्ताहद्वय्म् श्रुत्याक्षेपम् समस्यातीव्रतां च +आशन्क्य विश्वासो वातायनम् उद्घाटितम् एवात्यजन् निद्रावेलायाम् - यद्यपि तन्निवारणेन श्वाससुखं तु निश्चितप्रायम्। 
 
