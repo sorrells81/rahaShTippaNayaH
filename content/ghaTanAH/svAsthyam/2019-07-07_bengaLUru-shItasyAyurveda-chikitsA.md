@@ -14,9 +14,11 @@ topics:
 
 
 ## विवरणम्
-### आदिमसंवादः
-बेन्गळूरु-वासे पुरा विश्वासेन शीतम् (Allergic rhinitis) अनुभूता - steroid inhalers च ग्ऱ्हीताः। नगरान्तरे त्व् एषा नासीत् समस्या - भाग्यनगरे अमेरिकेषु च न तावत्। पश्चाद् भारतप्रवासेषु पुनर् एवम् अनुभूतम्।
+### प्राक्तनेतिहासः
+बेन्गळूरु-वासे पुरा विश्वासेन शीतम् (Allergic rhinitis) अनुभूता - steroid inhalers, anti histamines च ग्ऱ्हीताः। (इतिहासो ऽन्यत्रोक्तः।) नगरान्तरे त्व् एषा नासीत् समस्या - भाग्यनगरे अमेरिकेषु च न तावत्। पश्चाद् भारतप्रवासेषु पुनर् एवम् अनुभूतम्।
 
+
+### आदिमसंवादः
 अथ कदाचिद् Apr 10 इति दिने विश्वास आयुर्वेदविचक्षणं कृष्णम् अप्ऱ्च्छत् - 
 "अपरश्च प्रश्नः। गतमासे कदाचित् पीनसकासादिशमने मम पत्न्या प्रयुज्यमानं "ಬಾಣನ್ತಿ"-लेह्यं प्राश्यालभे सुखम्। तेन च्यवनप्राशप्राशनमपि नित्यम् आरोग्याय कल्पेतेति संशये। तत्र भवतः कोऽभिप्रायः?
 एवञ्च भारतेषु बॆङ्गळूरुनगरे मया वर्षाणान् दशकात् पूर्वम् बहूनि वर्षाणि allergy, asthma इत्यनुभूतम्, यच्च नावर्तत विदेशवासे कृते गतदशके। अचिरात् सपरिवारेण साकम् प्रत्यागत्य स्वनगरे प्रत्युषितव्यमिति योजनायां क्रियमाणायां पुनरनारोग्यशङ्का जागर्ति। आयुर्वेदे ऽस्य कृतेऽस्ति परिहारः कश्चन? https://www.facebook.com/KalavaiVenkat/posts/2264372873843076 इत्यत्र कश्चन - "I tossed away the steroid spray. I had a conversation with my dad and he introduced me to an Ayurvedic formulation called Pankaja Kasthuri. It comes in granule form and costs hardly anything. I started taking it daily since last May. By the way it tastes great so I sometimes eat a few spoonfuls just for fun! Long story short, I never caught cold or cough even once since last May in spite of travels and exposure to people with severe cough and cold. It may not be prudent to rush to conclusion based on personal experience alone but personal experience is something you could trust." इति लिखति - सा +ओषधिर् ममापि स्यात् प्रयोजनाय? एवञ्च प्रसङ्गवशात् प्रश्नद्वयान्तरम् - कतिभ्यो वर्षेभ्यः पूर्वम् वार्तापत्रेषु - "आयुर्वेदौषधीषु सीसांशो वर्तते - जाग्रत" इति वार्ता प्रसृता। तत्र किं तथ्यम्? एवञ्चायुर्वेदौषधिविक्रेतृषु कय् उत्तमाः? प्रागुक्तसूत्रे कश्चिद् ब्रूते - "I mostly use Kotakkal or Coimbatore Arya Vaidya Sala. Patanjali products while overseas." ।
