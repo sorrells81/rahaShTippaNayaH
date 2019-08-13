@@ -63,6 +63,10 @@ By Jul 28, even the the 4th bottle of Agastya rasAyana got over. I started inste
 
 On 30th July, I laid down on top of a jamkhAna spread over a thin straw mat spread over the mosaic tiled floor. Still, I could feel the cold from the ground - and my lungs grew wheezy, I coughed quite a bit, nose was half blocked. I recalled a similar experience in my initial day at IISc hostel in 2006 September (before I was provided a cot). Resolved the problem by eating a mango. Similar attack on Aut 12 at 1:30AM, which was quite severe. Milder attacks on some previous nights.
 
+Started taking "pankaja kastUri breathe easy" granules on Aug 12 at 9 PM. Easily observed a great relief. Shruti awoke me at 3:30AM, and mild allergy struck again. After battling for an hour, finally took "pankaja kastUri breathe easy" granules again with milk and 2 bananas. Slept comfortably for a few few more hours. Then, took another dose after breakfast and after dinner at 5 - experienced relief.
+
+Sometimes, I observe that eating food eases symptoms. Same with "pankaja kastUri breathe easy". Further, lore suggests that some food exacerbates "shIta", with other food eases it. So, there seems to be some close connection between the stomach system and pulmonary apparatus.
+
 #### श्रुति-सहकारः
 उत्साहेनारम्भे श्रुतिश् चिकित्साक्रमम् गूगल-समयदर्शिन्याम् अस्थापयत्, शन्काश् च स्मृत्या न्यवारयत्। कदाचित् श्रुतिर् व्यजनचालनायाग्रहम् अकरोद् इति, कदाचित् तस्या पीनस-व्याधिरासीद् इति च विश्वासः पृथक् अशेत। सप्ताहद्वय्म् श्रुत्याक्षेपम् समस्यातीव्रतां च +आशन्क्य विश्वासो वातायनम् उद्घाटितम् एवात्यजन् निद्रावेलायाम् - यद्यपि तन्निवारणेन श्वाससुखं तु निश्चितप्रायम्। 
 
