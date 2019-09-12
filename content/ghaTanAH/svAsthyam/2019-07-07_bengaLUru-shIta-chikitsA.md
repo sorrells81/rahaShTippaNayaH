@@ -12,8 +12,7 @@ topics:
 
 ---
 
-
-## विवरणम्
+## आयुर्वेदचिकित्साकालः
 ### प्राक्तनेतिहासः
 बेन्गळूरु-वासे पुरा विश्वासेन शीतम् (Allergic rhinitis) अनुभूता - steroid inhalers, anti histamines च ग्ऱ्हीताः। (इतिहासो ऽन्यत्रोक्तः।) नगरान्तरे त्व् एषा नासीत् समस्या - भाग्यनगरे अमेरिकेषु च न तावत्। पश्चाद् भारतप्रवासेषु पुनर् एवम् अनुभूतम्।
 
@@ -61,15 +60,22 @@ When applying nasya, spreading the oil to entire inner wall of nostril helped mu
 
 By Jul 28, even the the 4th bottle of Agastya rasAyana got over. I started instead to just drink milk + turmeric + pepper seed boiled. I could feel a positive effect - especially upon biting through a few of the softened pepper seeds. I wondered: perhaps I need to change my diet to something "hotter". In this connection, I recalled feeling that ingesting mango definitely helped ease my symptoms, while eating sibekAi (the pink flesh variety) worsened it. The vaidya was unavailable for follow-up consultation on that day.
 
-On 30th July, I laid down on top of a jamkhAna spread over a thin straw mat spread over the mosaic tiled floor. Still, I could feel the cold from the ground - and my lungs grew wheezy, I coughed quite a bit, nose was half blocked. I recalled a similar experience in my initial day at IISc hostel in 2006 September (before I was provided a cot). Resolved the problem by eating a mango. Similar attack on Aut 12 at 1:30AM, which was quite severe. Milder attacks on some previous nights.
+#### श्रुति-सहकारः
+उत्साहेनारम्भे श्रुतिश् चिकित्साक्रमम् गूगल-समयदर्शिन्याम् अस्थापयत्, शन्काश् च स्मृत्या न्यवारयत्। कदाचित् श्रुतिर् व्यजनचालनायाग्रहम् अकरोद् इति, कदाचित् तस्या पीनस-व्याधिरासीद् इति च विश्वासः पृथक् अशेत। सप्ताहद्वय्म् श्रुत्याक्षेपम् समस्यातीव्रतां च +आशन्क्य विश्वासो वातायनम् उद्घाटितम् एवात्यजन् निद्रावेलायाम् - यद्यपि तन्निवारणेन श्वाससुखं तु निश्चितप्रायम्। 
+
+### पङ्कजकस्तूरिकालः
+On 30th July, I laid down on top of a jamkhAna spread over a thin straw mat spread over the mosaic tiled floor. Still, I could feel the cold from the ground - and my lungs grew wheezy, I coughed quite a bit, nose was half blocked. I recalled a similar experience in my initial day at IISc hostel in 2006 September (before I was provided a cot). Resolved the problem by eating a mango. 
+
+Similar attack on Aug 12 at 1:30AM, which was quite severe. Milder attacks on some previous nights.
 
 Started taking "pankaja kastUri breathe easy" granules on Aug 12 at 9 PM. Easily observed a great relief. Shruti awoke me at 3:30AM, and mild allergy struck again. After battling for an hour, finally took "pankaja kastUri breathe easy" granules again with milk and 2 bananas. Slept comfortably for a few few more hours. Then, took another dose after breakfast and after dinner at 5 - experienced relief.
 
 Sometimes, I observe that eating food eases symptoms. Same with "pankaja kastUri breathe easy". Further, lore suggests that some food exacerbates "shIta", with other food eases it. Experienced it once with sItAphala. +++(So, there seems to be some close connection between the stomach system and pulmonary apparatus.)+++
 
-Between 8/21/2019 to 8/26/2019, I suffered from a bad case of (viral) cold. Interestingly, morning allergy seemed to reduce during that time. Later, on Sep 9 at around 3AM, started wheezing while lying down, but not while sitting up. This disturbed sleep. Ate some "pankaja kastUri breathe easy", wore a shirt, and started breathing shallow - that cleared the problem.
+Between 8/21/2019 to 8/26/2019, I suffered from a bad case of (viral) cold. Interestingly, morning allergy seemed to reduce during that time.
 
-
-#### श्रुति-सहकारः
-उत्साहेनारम्भे श्रुतिश् चिकित्साक्रमम् गूगल-समयदर्शिन्याम् अस्थापयत्, शन्काश् च स्मृत्या न्यवारयत्। कदाचित् श्रुतिर् व्यजनचालनायाग्रहम् अकरोद् इति, कदाचित् तस्या पीनस-व्याधिरासीद् इति च विश्वासः पृथक् अशेत। सप्ताहद्वय्म् श्रुत्याक्षेपम् समस्यातीव्रतां च +आशन्क्य विश्वासो वातायनम् उद्घाटितम् एवात्यजन् निद्रावेलायाम् - यद्यपि तन्निवारणेन श्वाससुखं तु निश्चितप्रायम्। 
-
+## Midnight attacks
+- Later, on Sep 9 at around 3AM, started wheezing and coughing while lying down, but not while sitting up. This disturbed sleep till 5:30AM. Ate some "pankaja kastUri breathe easy" + fruits, wore a shirt, and started breathing shallow - that cleared the problem.
+- This caused me to recall the attack on Aug 12 at 1:30AM, which was quite severe.
+- This repeated on Sep 9 midnight - totally destroying sleep until about 4:30AM. Again ate some "pankaja kastUri breathe easy" + fruits. Did not help much. Took Cetirizine 10mg tablet, which helped. But stayed awake researching the problem. Shruti taught sudarshana-kriyA (ujjayI prANAyAma with various hand locations, kapAlabhAti at varying speeds, breathing at varying speeds).
+- Spent Sep 10 day researching glucocorticosteroids and short acting beta agonists, and catching up on sleep. Got Seroflo 100 (salmeterol, Fluticasone Propionate) rotocaps and inhaled twice before sleep. Ate a cetirizine 10mg tablet. That night, I slept well - barring sitting up for a few seconds at around midnight due to cough.
