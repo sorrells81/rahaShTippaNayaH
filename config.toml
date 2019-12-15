@@ -4,11 +4,16 @@ title = "रहष्टिप्पणयः"
 theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_bitbucket"
 disablePathToLower = true
+
 [taxonomies]
   topics = "topics"
   cast = "cast"
+
 [params]
   githubEditMePathBase = "https://github.com/vvasuki/rahaShTippaNayaH/edit/master/content/"
   contactLink = "https://github.com/vvasuki/rahaShTippaNayaH/issues/new"
   env = "production"
   disqusShortcode = "vvasuki-site"
+
+[markup.goldmark.renderer]
+  unsafe= true
