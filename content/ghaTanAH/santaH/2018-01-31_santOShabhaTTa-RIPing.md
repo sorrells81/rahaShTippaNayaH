@@ -15,5 +15,5 @@ topics:
 ---
 
 ## विवरणम्
-kashcidvipashcit.wordpress.com/2018/02/01/rip-ing-dead-hindus/
+agnimaan.wordpress.com/2018/02/01/rip-ing-dead-hindus/
 

@@ -16,5 +16,5 @@ topics:
 ---
 
 ## विवरणम्
-https://wordpress.com/post/kashcidvipashcit.wordpress.com/3031 इत्यस्मिन् शोधनानि दृश्यन्ताम्।
+https://wordpress.com/post/agnimaan.wordpress.com/3031 इत्यस्मिन् शोधनानि दृश्यन्ताम्।
 

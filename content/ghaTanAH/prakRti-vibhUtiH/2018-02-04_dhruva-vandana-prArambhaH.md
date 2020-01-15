@@ -20,5 +20,5 @@ topics:
 ---
 
 ## विवरणम्
-https://kashcidvipashcit.wordpress.com/2018/02/04/salute-the-dolphin-ursa-minor-every-night-after-sandhyavandanam/
+https://agnimaan.wordpress.com/2018/02/04/salute-the-dolphin-ursa-minor-every-night-after-sandhyavandanam/
 
