@@ -40,7 +40,7 @@ deploy:
         type: rsa
     - gsserge/git-push:
         host: bitbucket.org
-        repo: agnirahas/agnirahas.bitbucket.org
+        repo: agnirahas/agnirahas.bitbucket.org # Published to https://agnirahas.bitbucket.io/
         branch: master
         basedir: build_bitbucket
         discard_history: true

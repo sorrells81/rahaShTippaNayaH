@@ -1,4 +1,0 @@
----
-title: विश्वासपितरौ
-order: reverseDate
----
