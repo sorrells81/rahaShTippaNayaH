@@ -1010,7 +1010,7 @@ Engine maintenance sign came on for some time yesterday.
 
 https://docs.google.com/document/d/10XqNJS545Rt42sucFlUY9vFN329pOzGT_ffK4rxrzDQ/edit#heading=h.2h0v95mjktbg 
 
-To view changes: (File -> Version history)
+To view changes: (File → Version history)
 
 ### [376] Disable amazon 2 factor
 
@@ -1463,7 +1463,7 @@ expenditure - 2200 rent, 2400 nanny, 800 misc.
 
 deficit - 1600
 
-ally savings = 7000 -> no need to sell stocks for 4 months.
+ally savings = 7000 → no need to sell stocks for 4 months.
 
 ### [313] [archived] वान्ति-तन्त्र-रचनम्
 
@@ -2279,7 +2279,7 @@ Reg 80g deductions - only sath samhitA is eligible.
 
 Your Return has been successfully submitted with the transaction ID 5749631343 and e-Verification using Aadhaar OTP is in progress with UIDAI.
 
-An email confirmation will be sent to the email ID mentioned in the ITR shortly. Acknowledgement or ITR-V will be sent to the email ID mentioned in the ITR based on the e-Verification. Also, the status of submitted Return can be viewed under My Account --> View e-Filed Returns/Forms --> Income Tax Returns.
+An email confirmation will be sent to the email ID mentioned in the ITR shortly. Acknowledgement or ITR-V will be sent to the email ID mentioned in the ITR based on the e-Verification. Also, the status of submitted Return can be viewed under My Account -→ View e-Filed Returns/Forms -→ Income Tax Returns.
 
 Note: In case of successful e-Verification Acknowledgement will be sent else ITR-V will be sent.
 
@@ -2460,7 +2460,7 @@ Everify convenient via SBI.
 
 [x] रचनम् 3/7/2018 9:16:05 AM Vishvas V विश्वासो वासुकिजः
 
-[x] श्रुत्या पठनम्, अवगमनञ्च। (तन्त्राणि-> विश्वासस्य इत्यवधेयम् विशिष्य) 3/7/2018 8:58:43 AM Shruthi Viswanath
+[x] श्रुत्या पठनम्, अवगमनञ्च। (तन्त्राणि→ विश्वासस्य इत्यवधेयम् विशिष्य) 3/7/2018 8:58:43 AM Shruthi Viswanath
 
 #### Comments
 **4/2/2018 10:30:14 AM Vishvas V विश्वासो वासुकिजः**
@@ -9374,7 +9374,7 @@ nagarathna.vasuki@gmail.com pw: rukmini
 
 **Description:**
 
-https://openpsychometrics.org/tests/IPIP-BFFM/ --> Curious to know each one of your scores. 
+https://openpsychometrics.org/tests/IPIP-BFFM/ -→ Curious to know each one of your scores. 
 
 (mama - https://openpsychometrics.org/tests/IPIP-BFFM/results.php?r=2.9,3.8,2.4,4.1,4.2#_I )
 
@@ -10153,7 +10153,7 @@ Why do you want them back?
 
 @vvasuki  विद्ये - कति पेटिकास् सन्तीतोऽपि?
 
-### [55] FD -> mutual fund
+### [55] FD → mutual fund
 
 **Created:** 11/21/2017 8:03:32 AM
 
@@ -12243,7 +12243,7 @@ Summary of options:  https://stackoverflow.com/questions/3507624/mongodb-nosql-k
 
 Perhaps it's good to have a separate 'history' database - where past n versions of each upserted or deleted document are stored.
 
-### [23] System generated -> user supplied for touched image annotations
+### [23] System generated → user supplied for touched image annotations
 
 **Created:** 11/28/2017 8:33:36 AM
 
@@ -14802,7 +14802,7 @@ Current misinterpreted output.
 #### Comments
 **10/28/2018 10:59:38 AM Vishvas V विश्वासो वासुकिजः**
 
-Fixed podcast RSS feed to have item -> link tag.
+Fixed podcast RSS feed to have item → link tag.
  Tried https://ifttt.com/applets/87876268d-mbh-audio-rss-to-twitter . 
 IFTTT failing. Reported the problem:
 
@@ -15720,8 +15720,8 @@ But `wget http://archive.org/metadata/mahAbhArata-mUla-paThanam-GP` works fine.
 **9/29/2018 11:33:34 PM Vishvas V विश्वासो वासुकिजः**
 
 ```
-http://archive.org:80)] [0 (Unconnected)] After event [onConnectionCompleted] State change [Idle] -> [Unconnected]
-Sep 30 12:03:03 vedavaapi.org sbt[27049]: [DEBUG] [09/30/2018 12:03:03.369] [akka-http-server-akka.actor.default-dispatcher-2] [akka-http-server/Pool(shared->http://archive.org:80)] [0 (Unconnected)] State change from [Idle] to [Unconnected]. Closing the existing connection.
+http://archive.org:80)] [0 (Unconnected)] After event [onConnectionCompleted] State change [Idle] → [Unconnected]
+Sep 30 12:03:03 vedavaapi.org sbt[27049]: [DEBUG] [09/30/2018 12:03:03.369] [akka-http-server-akka.actor.default-dispatcher-2] [akka-http-server/Pool(shared→http://archive.org:80)] [0 (Unconnected)] State change from [Idle] to [Unconnected]. Closing the existing connection.
 Sep 30 12:03:03 vedavaapi.org sbt[27049]: 12:03:03 sanskrit_coders.RichHttpClient$ 126 --- Request failed, response code: 403 Forbidden, Response: {HttpResponse(403 Forbidden,List(Date: Sun, 30 Sep 2018 06:30:08 GMT, Expires: Sun, 30 Sep 2018 06:30:08 GMT, Server: Mikrotik HttpProxy, Proxy-Connection: close),HttpEntity.Strict(text/html,ByteString(60, 104, 116, 109, 108, 62, 13, 10, 60, 104, 101, 97, 100, 62, 13, 10, 9, 60, 109, 101, 116, 97, 32, 104, 116, 116, 112, 45, 101, 113, 117, 105, 118, 61, 34, 67, 111, 110, 116, 101, 110, 116, 45, 84, 121, 112, 101, 34, 32, 99, 111, 110, 116, 101, 110, 116, 61, 34, 116, 101, 120, 116, 47, 104, 116, 109, 108, 59, 99, 104, 97, 114, 115, 101, 116, 61, 119, 105, 110, 100, 111, 119, 115, 45, 49, 50, 53, 49, 34, 62, 13, 10, 9, 60, 116, 105, 116, 108, 101, 62)... and [413] more),HttpProtocol(HTTP/1.0))}, Headers: {Date: Sun, 30 Sep 2018 06:30:08 GMT,Expires: Sun, 30 Sep 2018 06:30:08 GMT,Server: Mikrotik HttpProxy,Proxy-Connection: close}, entity: {HttpEntity.Strict(text/html,ByteString(60, 104, 116, 109, 108, 62, 13, 10, 60, 104, 101, 97, 100, 62, 13, 10, 9, 60, 109, 101, 116, 97, 32, 104, 116, 116, 112, 45, 101, 113, 117, 105, 118, 61, 34, 67, 111, 110, 116, 101, 110, 116, 45, 84, 121, 112, 101, 34, 32, 99, 111, 110, 116, 101, 110, 116, 61, 34, 116, 101, 120, 116, 47, 104, 116, 109, 108, 59, 99, 104, 97, 114, 115, 101, 116, 61, 119, 105, 110, 100, 111, 119, 115, 45, 49, 50, 53, 49, 34, 62, 13, 10, 9, 60, 116, 105, 116, 108, 101, 62)... and [413] more)}, protocol: {HttpProtocol(HTTP/1.0)}
 Sep 30 12:03:03 vedavaapi.org sbt[27049]: [ERROR] [09/30/2018 12:03:03.373] [akka-http-server-akka.actor.default-dispatcher-16] [akka://akka-http-server/user/$c] Request failed, response code: 403 Forbidden, Response: {HttpResponse(403 Forbidden,List(Date: Sun, 30 Sep 2018 06:30:08 GMT, Expires: Sun, 30 Sep 2018 06:30:08 GMT, Server: Mikrotik HttpProxy, Proxy-Connection: close),HttpEntity.Strict(text/html,ByteString(60, 104, 116, 109, 108, 62, 13, 10, 60, 104, 101, 97, 100, 62, 13, 10, 9, 60, 109, 101, 116, 97, 32, 104, 116, 116, 112, 45, 101, 113, 117, 105, 118, 61, 34, 67, 111, 110, 116, 101, 110, 116, 45, 84, 121, 112, 101, 34, 32, 99, 111, 110, 116, 101, 110, 116, 61, 34, 116, 101, 120, 116, 47, 104, 116, 109, 108, 59, 99, 104, 97, 114, 115, 101, 116, 61, 119, 105, 110, 100, 111, 119, 115, 45, 49, 50, 53, 49, 34, 62, 13, 10, 9, 60, 116, 105, 116, 108, 101, 62)... and [413] more),HttpProtocol(HTTP/1.0))}, Headers: {Date: Sun, 30 Sep 2018 06:30:08 GMT,Expires: Sun, 30 Sep 2018 06:30:08 GMT,Server: Mikrotik HttpProxy,Proxy-Connection: close}, entity: {HttpEntity.Strict(text/html,ByteString(60, 104, 116, 109, 108, 62, 13, 10, 60, 104, 101, 97, 100, 62, 13, 10, 9, 60, 109, 101, 116, 97, 32, 104, 116, 116, 112, 45, 101, 113, 117, 105, 118, 61, 34, 67, 111, 110, 116, 101, 110, 116, 45, 84, 121, 112, 101, 34, 32, 99, 111, 110, 116, 101, 110, 116, 61, 34, 116, 101, 120, 116, 47, 104, 116, 109, 108, 59, 99, 104, 97, 114, 115, 101, 116, 61, 119, 105, 110, 100, 111, 119, 115, 45, 49, 50, 53, 49, 34, 62, 13, 10, 9, 60, 116, 105, 116, 108, 101, 62)... and [413] more)}, protocol: {HttpProtocol(HTTP/1.0)}
 Sep 30 12:03:03 vedavaapi.org sbt[27049]: [ERROR] [09/30/2018 12:03:03.373] [akka-http-server-akka.actor.default-
@@ -17136,7 +17136,7 @@ Created https://www.youtube.com/watch?v=gR4DG1BZQ-s&feature=youtu.be , reported 
 
 [x] Settings repo syncing 3/23/2018 3:46:56 PM Vishvas V विश्वासो वासुकिजः
 
-[x] system settings -> password screen loading. 3/23/2018 3:46:56 PM Vishvas V विश्वासो वासुकिजः
+[x] system settings → password screen loading. 3/23/2018 3:46:56 PM Vishvas V विश्वासो वासुकिजः
 
 #### Comments
 **3/23/2018 3:47:58 PM Vishvas V विश्वासो वासुकिजः**
@@ -17520,7 +17520,7 @@ pravachana.com chAlakAya prastAvaH preSHitaH
 
 https://groups.google.com/forum/#!topic/sanskrit-programmers/ok0c2UrEw8s <-- pravachanam.com ityasmin upAyAntaram prayuktam
 
-### [62] http://radio.uttaradimath.org/ -> tunein
+### [62] http://radio.uttaradimath.org/ → tunein
 
 **Created:** 10/18/2017 11:25:47 PM
 
@@ -18429,7 +18429,7 @@ qdirstat प्रयुज्य स्थूलसञ्चिका निश
 
 **4/9/2018 7:16:27 PM Vishvas V विश्वासो वासुकिजः**
 
-Taittiriya Aranyaka IV.38 --> अस्य विनियोगे प्रश्नः।                        
+Taittiriya Aranyaka IV.38 -→ अस्य विनियोगे प्रश्नः।                        
 "गत्वैनमभिव्याहरेत्" इत्यत्र - "स यथा श्रुणुयात् तथाभिव्याहरेद्" इति निर्देशो वा?                        
 (मरून्मत्तशत्रून् एवम् अभिचरितुमिच्छामि काले)
 
