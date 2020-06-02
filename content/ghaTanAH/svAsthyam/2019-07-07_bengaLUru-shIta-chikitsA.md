@@ -12,10 +12,11 @@ topics:
 
 ---
 
-## आयुर्वेदचिकित्साकालः
 ### प्राक्तनेतिहासः
-बेन्गळूरु-वासे पुरा विश्वासेन शीतम् (Allergic rhinitis) अनुभूता - steroid inhalers, anti histamines च ग्ऱ्हीताः। (इतिहासो ऽन्यत्रोक्तः।) नगरान्तरे त्व् एषा नासीत् समस्या - भाग्यनगरे अमेरिकेषु च न तावत्। पश्चाद् भारतप्रवासेषु पुनर् एवम् अनुभूतम्।
+बेन्गळूरु-वासे पुरा विश्वासेन शीतम् (Allergic rhinitis) अनुभूता - steroid inhalers, anti histamines च गृहीताः। (इतिहास ऽन्यत्रोक्तः - ["Arogyam vaishvAsam" sheet](https://docs.google.com/spreadsheets/d/1V-Avoph8GfYaId0_DrP-9WAXKsQJaWS1GhOAGxeTd8o/edit#gid=4)। नगरान्तरे त्व् एषा नासीत् समस्या - भाग्यनगरे अमेरिकेषु च न तावत्। पश्चाद् भारतप्रवासेषु पुनर् एवम् अनुभूतम्।
 
+
+## आयुर्वेदचिकित्साकालः
 
 ### आदिमसंवादः
 अथ कदाचिद् Apr 10 इति दिने विश्वास आयुर्वेदविचक्षणं कृष्णम् अप्ऱ्च्छत् - 
@@ -44,7 +45,7 @@ topics:
 
 No fan, avoid head-bath. 
 
-#### anubhUtiH
+#### अनुभूतिः
 विश्वासेनैवम् पृष्टो वैद्यः सप्ताहद्वयस्यान्ते-
 
 - Also at night, while taking Agastya rasAyana + milk on mostly empty stomach, I sometimes get acidity type feeling (eg yesterday, when I also added some haridra), forcing me to eat something else. Should I just increase milk intake then to beyond 100ml?
@@ -80,3 +81,17 @@ Between 8/21/2019 to 8/26/2019, I suffered from a bad case of (viral) cold. Inte
 - This repeated on Sep 9 midnight - totally destroying sleep until about 4:30AM. Again ate some "pankaja kastUri breathe easy" + fruits. Did not help much. Took Cetirizine 10mg tablet, which helped. But stayed awake researching the problem. Shruti taught sudarshana-kriyA (ujjayI prANAyAma with various hand locations, kapAlabhAti at varying speeds, breathing at varying speeds).
 - Spent Sep 10 day researching glucocorticosteroids and short acting beta agonists, and catching up on sleep. Got Seroflo 100 (salmeterol, Fluticasone Propionate) rotocaps and inhaled twice before sleep. Ate a cetirizine 10mg tablet. That night, I slept well - barring sitting up for a few seconds at around midnight due to cough.
 - On Sep 11 night onwards - no problems. Sep 12 - switched to Budesonide 200mcg spray in the mornings. Was feeling spry - a remarkably healthy person - by Sep 13, when I stopped cetirizine intake. Slowly increased periodic short bursts of prANAyAma. Stopped night dose on Sep 15.
+
+## Winter 2019 management
+- Initially managed symptoms during winter 2019 with Budesonide Budesonide 200mcg spray - approximately one every two days.
+- Moved to sahakAra-nagara in October 2019. shruti also developed similar allergic wheezing. Eventually met the medical officers there (culminating in Dr Patil). Thence switched to seroflo inhaler (250mg fluticasone 1 rotocap/ day) till about Jan. 
+- After that there were a few bouts of viral cold. Asthma problems subsided during spring and summer.
+
+## Monsoon 2020
+- The rains started during May. Soon, symptoms restarted. Covid pandemic was also a thread. Sought and secured inhaler and rotocaps. Used it a few times when wheezing was experienced.
+- Problem restarted with allergic rhinitis. Left nostril would clog up.
+- Midnight and early morning attacks restarted.
+  - Started waking up sneezing a lot in the mornings.
+  - On May 31, closed bedroom windows (wide ventilator remained open) - experienced better sleep.
+  - On Jun 1, a couple of room windows had opened up - there was a severe sneezing attack at around 4AM. Warned everyone about the windows. Used Fluticasone Furoate nasal spray. Sleep did not return - sat at the computer. Used to switch off fan if nose felt itchy.
+  - Despite closed windows, woke up around Jun 2 at 1AM with a sneezing attack. No sleep till about 5AM. Then slept till 7:30AM. Again slept 1:30 to 3 PM. Better rest.
