@@ -13,7 +13,7 @@ topics:
 ---
 
 ### प्राक्तनेतिहासः
-बेन्गळूरु-वासे पुरा विश्वासेन शीतम् (Allergic rhinitis) अनुभूता - steroid inhalers, anti histamines च गृहीताः। (इतिहास ऽन्यत्रोक्तः - ["Arogyam vaishvAsam" sheet](https://docs.google.com/spreadsheets/d/1V-Avoph8GfYaId0_DrP-9WAXKsQJaWS1GhOAGxeTd8o/edit#gid=4)। नगरान्तरे त्व् एषा नासीत् समस्या - भाग्यनगरे अमेरिकेषु च न तावत्। पश्चाद् भारतप्रवासेषु पुनर् एवम् अनुभूतम्।
+बेन्गळूरु-वासे पुरा विश्वासेन शीतम् (Allergic rhinitis) अनुभूता - steroid inhalers, anti histamines च गृहीताः। (इतिहास ऽन्यत्रोक्तः - ["Arogyam vaishvAsam" sheet](https://docs.google.com/spreadsheets/d/1V-Avoph8GfYaId0_DrP-9WAXKsQJaWS1GhOAGxeTd8o/edit#gid=4 )। नगरान्तरे त्व् एषा नासीत् समस्या - भाग्यनगरे अमेरिकेषु च न तावत्। पश्चाद् भारतप्रवासेषु पुनर् एवम् अनुभूतम्।
 
 
 ## आयुर्वेदचिकित्साकालः
@@ -49,7 +49,7 @@ No fan, avoid head-bath.
 विश्वासेनैवम् पृष्टो वैद्यः सप्ताहद्वयस्यान्ते-
 
 - Also at night, while taking Agastya rasAyana + milk on mostly empty stomach, I sometimes get acidity type feeling (eg yesterday, when I also added some haridra), forcing me to eat something else. Should I just increase milk intake then to beyond 100ml?
-- Also, at around the 3rd/ 4th day of this treatment, I observed the following: The symptoms kept up without much improvement - sneezing right after waking up and blocked nose in the morning, receding by pUrvAhNa (11AM or noon). So I felt that an important trick is to change my inner-body-environment to be more pUrvAhNa/ afternoon like as soon as possible after waking up - perhaps by making my regular activity more vigorous (- with more physical exertion and mental aggressiveness). This has seemed to work quite well. +++(Note theory.)+++ And I began wondering if your stricture against sleeping in the noon was motivated by the danger of resetting the body to a morning-like state - am I right?
+- Also, at around the 3rd/ 4th day of this treatment, I observed the following: The symptoms kept up without much improvement - sneezing right after waking up and blocked nose in the morning, receding by pUrvAhNa (11AM or noon). So I felt that an important trick is to change my inner-body-environment to be more pUrvAhNa/ afternoon like as soon as possible after waking up - perhaps by making my regular activity **more vigorous** (- with more physical exertion and mental aggressiveness). This has seemed to work quite well. +++(Note theory.)+++ And I began wondering if your stricture against sleeping in the noon was motivated by the danger of resetting the body to a morning-like state - am I right?
 - Generally, breathing feels quite good - especially while/ sometime after I'm in the state described above - though I note slight shortness of breath when singing sAmans in the morning. I had not kept up with ShaDbindu-taila-nasya since I underwent week long netra-tarpaNa and the other vaidya had asked me to skip the nasya for the duration, but will restart it. The nasya makes my nose runny for a while, but I speculate that the intention is to somehow reduce nasal irritability by repeated reinforcement - is that right? +++(Note theory.)+++ 
 - For the initial few days, my hand kept automatically and habitually pouring water on my head while taking a bath (though that's fixed now), and I observed once that I was more sneezy when wind on the not-yet-fully-dry scalp resulted in a cold feeling there- not sure how much of that is a result of expectation/ confirmation bias though. (Same on another occassion.)
 
@@ -67,7 +67,7 @@ By Jul 28, even the the 4th bottle of Agastya rasAyana got over. I started inste
 ### पङ्कजकस्तूरिकालः
 On 30th July, I laid down on top of a jamkhAna spread over a thin straw mat spread over the mosaic tiled floor. Still, I could feel the cold from the ground - and my lungs grew wheezy, I coughed quite a bit, nose was half blocked. I recalled a similar experience in my initial day at IISc hostel in 2006 September (before I was provided a cot). Resolved the problem by eating a mango. 
 
-Similar attack on Aug 12 at 1:30AM, which was quite severe. Milder attacks on some previous nights.
+**Night attacks**: Similar attack on Aug 12 at 1:30AM, which was quite severe. Milder attacks on some previous nights.
 
 Started taking "pankaja kastUri breathe easy" granules on Aug 12 at 9 PM. Easily observed a great relief. Shruti awoke me at 3:30AM, and mild allergy struck again. After battling for an hour, finally took "pankaja kastUri breathe easy" granules again with milk and 2 bananas. Slept comfortably for a few few more hours. Then, took another dose after breakfast and after dinner at 5 - experienced relief.
 
@@ -88,10 +88,13 @@ Between 8/21/2019 to 8/26/2019, I suffered from a bad case of (viral) cold. Inte
 - After that there were a few bouts of viral cold. Asthma problems subsided during spring and summer.
 
 ## Monsoon 2020
-- The rains started during May. Soon, symptoms restarted. Covid pandemic was also a thread. Sought and secured inhaler and rotocaps. Used it a few times when wheezing was experienced.
+- The rains started during May. Soon, symptoms restarted. Covid pandemic was also a thread. Sought and secured inhaler and seroflo rotocaps. Used it a few times when wheezing was experienced. Later, made application regular (every night before sleeping).
 - Problem restarted with allergic rhinitis. Left nostril would clog up.
 - Midnight and early morning attacks restarted.
   - Started waking up sneezing a lot in the mornings.
   - On May 31, closed bedroom windows (wide ventilator remained open) - experienced better sleep.
   - On Jun 1, a couple of room windows had opened up - there was a severe sneezing attack at around 4AM. Warned everyone about the windows. Used Fluticasone Furoate nasal spray. Sleep did not return - sat at the computer. Used to switch off fan if nose felt itchy.
   - Despite closed windows, woke up around Jun 2 at 1AM with a sneezing attack. No sleep till about 5AM. Then slept till 7:30AM. Again slept 1:30 to 3 PM. Better rest.
+  - **Vigorous exercise** during morning (mock karate fights, jumping up many times) invariably cleared up the nose and solved allergic rhinitis problems in the short term. This is consonant with experience last year (search for "vigorous" above).
+  - This repeated on multiple nights in July.
+  - A potential solution might be to reduce allergen exposure at night by use of mask or air purifier. The mask solution seems to have been validated by Wearing a Mask During Sleep Improved Asthma Control in Children - Keigo Kainuma etal.
