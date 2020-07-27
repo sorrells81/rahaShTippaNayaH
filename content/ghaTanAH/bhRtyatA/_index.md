@@ -1,4 +1,4 @@
 ---
-title: भृत्यता
+title: +भृत्यता
 order: reverseDate
 ---

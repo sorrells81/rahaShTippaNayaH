@@ -1,4 +1,4 @@
 ---
-title: प्रकृतिविभूतिः
+title: +प्रकृतिविभूतिः
 order: reverseDate
 ---
