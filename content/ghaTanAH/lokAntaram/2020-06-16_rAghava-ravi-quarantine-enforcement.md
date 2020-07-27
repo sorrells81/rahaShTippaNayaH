@@ -7,7 +7,7 @@ cast:
 - वासुकिः
 - रविः
 date: '2020-06-16'
-title: राघवेन रविगृहबन्धन आग्रहः 
+title: राघवेण रविगृहबन्धन आग्रहः 
 topics:
 - असहकारः
 - आग्रहः
@@ -44,6 +44,14 @@ Assuming that we can trust them to do (option a) properly, do you think it's ok 
 - Strictly quarantine yourself till next Sat (conditions to be elaborated)
 
 "
+
+रवय एवम् उक्तम् - "namaste sir, exchanged many messages with rAghav and spoke to him just now. Based on the notices he showed me, it appears that your family got out of TN just in time (starting yesterday, institutional quarantine is mandatory). 
+I've negotiated the following:
+
+- They strongly prefer that you quarantine yourself elsewhere along with your borther's family.
+- If that is not feasible, you may strictly stay quarantined in your house till Saturday 27th (I convinced him that this will be feasible given that your brother's family will stay elsewhere starting tomorrow afternoon). Strictly meaning no venturing out for any reason - you order any perishables via Dunzo (who will deliver to your doorstep - downstairs folk can help), you store wet/ dry waste (eg. in the back balconey) till the end of quarantine, you will wash and dry clothes inside (no terrace).
+
+I feel that the proposal is sensible (given observations of other people quarantined elsewhere). I urge you to cooperate for everyone's peace of mind. You can relax and think about long term fit later - no hurry. Request your response and confirmation about the path you will choose."
 
 ततः "Expecting him to return alone post his quarantine and test done which proves him to be negative." इति राघवो ऽवदत्। विश्वासस् तु - I think getting him to agree to "- Strictly quarantine yourself till next Sat (conditions to be elaborated)" will be more feasible. Do you think you can force him to quarantine himself eslewhere if he disagrees? इत्यवदत्।
 
