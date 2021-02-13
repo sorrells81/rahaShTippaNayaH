@@ -1,5 +1,5 @@
 ---
-title: "रहष्टिप्पणयः"
+title: "रहष्टिप्पन्यः"
 sidebar: home_sidebar
 topnav: home_sidebar
 summary: Welcome page.

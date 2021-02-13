@@ -17727,7 +17727,7 @@ https://www.australiancouncilofhinduclergy.com/current-affairs.html
 
 https://twitter.com/agnimaan/status/893175296706228224
 
-## टिप्पणयः
+## टिप्पन्यः
 
 ### [172] पूर्व-प्रयोग-पुस्तकेष्व् अप्रामाणिकता
 
@@ -17845,7 +17845,7 @@ https://twitter.com/agnimaan/status/893175296706228224
 
 
 
-### [146] ज्ञान-सम्पादने रक्षणे च टिप्पणयः
+### [146] ज्ञान-सम्पादने रक्षणे च टिप्पन्यः
 
 **Created:** 6/24/2018 10:27:22 PM
 

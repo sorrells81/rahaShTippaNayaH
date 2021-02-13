@@ -1,6 +1,6 @@
 baseURL = "https://agnirahas.bitbucket.io/"
 languageCode = "en-us"
-title = "रहष्टिप्पणयः"
+title = "रहष्टिप्पन्यः"
 theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_bitbucket"
 disablePathToLower = true
