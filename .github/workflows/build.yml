@@ -43,15 +43,19 @@ jobs:
         hugo-version: "0.83.1"
         # extended: true
       # Step 3 - Clean and don't fail
+    - name: Install SSH key
+      uses: shimataro/ssh-key-action@v2
+      with:
+        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        name: id_rsa # optional
+        known_hosts: zzXQOXSRBEiUtuE8AikJYKwbHaxvSc0ojez9YXaGp1A
     - name: Clean build directory
       id: clean_build
       if: steps.setup_hugo.conclusion == 'success'
       shell: bash
-      env:
-        BB_TOKEN: ${{ secrets.BB_TOKEN }}
       run: |
         set -o xtrace
-        git clone https://vvasuki:$BB_TOKEN@bitbucket.org/agnirahas/agnirahas.bitbucket.org.git --branch=master build_bitbucket --depth 1
+        git clone git@bitbucket.org:agnirahas/agnirahas.bitbucket.org.git --branch=master build_bitbucket --depth 1
         rm -rf build_bitbucket/*
     - name: Build hugo site pages
       id: hugo_build
@@ -63,6 +67,8 @@ jobs:
       run: |
         set -o xtrace
         cd build_bitbucket
+        git config --global user.email "vishvas.vasuki@gmail.com"
+        git config --global user.name "vvasuki"
         git add -A :/
         git commit -m CU
         git push
