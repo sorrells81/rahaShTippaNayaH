@@ -48,7 +48,7 @@ jobs:
       with:
         key: ${{ secrets.SSH_PRIVATE_KEY }}
         name: id_rsa # optional
-        known_hosts: zzXQOXSRBEiUtuE8AikJYKwbHaxvSc0ojez9YXaGp1A
+        known_hosts: ${{ secrets.KNOWN_HOSTS }} # ssh-keyscan -t rsa bitbucket.org 
     - name: Clean build directory
       id: clean_build
       if: steps.setup_hugo.conclusion == 'success'
