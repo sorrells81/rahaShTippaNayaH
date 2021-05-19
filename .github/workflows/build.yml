@@ -48,7 +48,7 @@ jobs:
       if: steps.setup_hugo.conclusion == 'success'
       shell: bash
       env:
-        bbtoken: ${{ secrets.BB_TOKEN }}
+        BB_TOKEN: ${{ secrets.BB_TOKEN }}
       run: |
         set -o xtrace
         git clone https://vvasuki:${{BB_TOKEN}}@bitbucket.org/agnirahas/agnirahas.bitbucket.org.git --branch=master build_bitbucket --depth 1
