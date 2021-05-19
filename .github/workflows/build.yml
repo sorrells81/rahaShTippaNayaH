@@ -57,12 +57,6 @@ jobs:
       if: steps.clean_build.conclusion == 'success'
       run: |
         hugo
-#    - name: Install SSH key
-#      uses: shimataro/ssh-key-action@v2
-#      with:
-#        key: ${{ secrets.SSH_PRIVATE_KEY }}
-#        name: id_rsa # optional
-#        known_hosts: zzXQOXSRBEiUtuE8AikJYKwbHaxvSc0ojez9YXaGp1A
      - name: Deploy
       if: ${{ github.event_name != 'pull_request' && steps.hugo_build.conclusion == 'success'}}
       run: |
