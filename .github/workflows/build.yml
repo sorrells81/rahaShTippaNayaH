@@ -43,10 +43,11 @@ jobs:
         hugo-version: "0.83.1"
         # extended: true
       # Step 3 - Clean and don't fail
-    - name: Clean build_github directory
+    - name: Clean build directory
       id: clean_build
       if: steps.setup_hugo.conclusion == 'success'
-      with:
+      shell: bash
+      env:
         bbtoken: ${{ secrets.BB_TOKEN }}
       run: |
         set -o xtrace
