@@ -2,7 +2,7 @@
 title = "+tamiL nADu"
 +++
 
-- koDaikanal			India	 Polluted by plastic. big shopping area with many Tibetians. With shrIvatsa-doDDappa's family; and with VVSHS friends. Exotically cool for the region,			
+- koDaikanal			India	 Polluted by plastic. big shopping area with many Tibetans. With shrIvatsa-doDDappa's family; and with VVSHS friends. Exotically cool for the region,			
 - maDrAs/ chennai			India	 The US consulate, some shopping complex, marina beach.			
 - mInAkShI dEvasthAna, madurai			India	 huge temple defiled by too many shops within the campus.			
 - rAmAnuja temple, shrIperambadUr	Temple		India	 witnessed the beginnings of rAmAnuja-ArAdhanA, with a yati in attendance. Unpleasant baragain for tirumaN.			Jan 2011.
