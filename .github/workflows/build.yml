@@ -47,7 +47,7 @@ jobs:
       id: clean_build
       if: steps.setup_hugo.conclusion == 'success'
       with:
-        bbtoken: ${{ secrets.BB_TOKEN }}        
+        bbtoken: ${{ secrets.BB_TOKEN }}
       run: |
         set -o xtrace
         git clone https://vvasuki:${{BB_TOKEN}}@bitbucket.org/agnirahas/agnirahas.bitbucket.org.git --branch=master build_bitbucket --depth 1
@@ -57,7 +57,7 @@ jobs:
       if: steps.clean_build.conclusion == 'success'
       run: |
         hugo
-     - name: Deploy
+    - name: Deploy
       if: ${{ github.event_name != 'pull_request' && steps.hugo_build.conclusion == 'success'}}
       run: |
         set -o xtrace
