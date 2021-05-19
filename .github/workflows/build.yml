@@ -55,8 +55,12 @@ jobs:
       shell: bash
       run: |
         set -o xtrace
+        cd build_bitbucket
+        git config --global user.email "vishvas.vasuki@gmail.com"
+        git config --global user.name "vvasuki"
         git clone git@bitbucket.org:agnirahas/agnirahas.bitbucket.org.git --branch=master build_bitbucket --depth 1
-        rm -rf build_bitbucket/*
+        rm -rf *
+        cd ..
     - name: Build hugo site pages
       id: hugo_build
       if: steps.clean_build.conclusion == 'success'
