@@ -51,7 +51,7 @@ jobs:
         BB_TOKEN: ${{ secrets.BB_TOKEN }}
       run: |
         set -o xtrace
-        git clone https://vvasuki:${{BB_TOKEN}}@bitbucket.org/agnirahas/agnirahas.bitbucket.org.git --branch=master build_bitbucket --depth 1
+        git clone https://vvasuki:$BB_TOKEN@bitbucket.org/agnirahas/agnirahas.bitbucket.org.git --branch=master build_bitbucket --depth 1
         rm -rf build_bitbucket/*
     - name: Build hugo site pages
       id: hugo_build
